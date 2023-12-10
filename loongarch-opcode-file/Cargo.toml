@@ -1,0 +1,15 @@
+[package]
+name = "loongarch-opcode-file"
+version = "0.0.1"
+edition = "2021"
+
+authors = [
+    "WANG Xuerui <git@xen0n.name>",
+]
+homepage = "https://github.com/loongson-community/loongarch-rs"
+repository = "https://github.com/loongson-community/loongarch-rs"
+keywords = ["loongarch", "loongson"]
+categories = ["parser-implementations"]
+license = "Apache-2.0 OR MIT OR MulanPSL-2.0"
+
+[dependencies]

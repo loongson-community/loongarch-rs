@@ -1,0 +1,19 @@
+[package]
+name = "loongarch-insn"
+version = "0.0.1"
+edition = "2021"
+
+authors = [
+    "WANG Xuerui <git@xen0n.name>",
+]
+homepage = "https://github.com/loongson-community/loongarch-rs"
+repository = "https://github.com/loongson-community/loongarch-rs"
+keywords = ["loongarch", "loongson"]
+categories = ["hardware-support"]
+
+# MulanOWL-BY-1.0 is not standardized by SPDX as of 2023-12.
+# See README for details
+# license = "(CC-BY-4.0 OR MulanOWL-BY-1.0) AND (Apache-2.0 OR MIT OR MulanPSL-2.0)"
+license = "CC-BY-4.0 AND (Apache-2.0 OR MIT OR MulanPSL-2.0)"
+
+[dependencies]
